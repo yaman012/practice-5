@@ -1,3 +1,4 @@
 ﻿# Practice_5
 OUTPUT
-<img width="1366" height="645" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/9f250ccf-8137-443d-87e4-f32368042365" />
+
+<img width="1904" height="944" alt="Screenshot 2025-10-26 203845" src="https://github.com/user-attachments/assets/66c86ad1-ce10-4912-a6fd-c0e16d654bb7" />
